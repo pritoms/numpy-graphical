@@ -1,7 +1,6 @@
 # numpy-graphical-library
 
 This repository contains a small machine learning library that is built with NumPy. The library is currently able to compute the forward and backward pass for a linear model with a mean squared error loss function.
-```
 
 
 - `requirements.txt`
